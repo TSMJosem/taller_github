@@ -7,8 +7,9 @@ body {
 
 h1 {
     color: #333;
-    text-align: center;
-    margin-top: 20px;
+    font-size: 50px;
+    line-height: 1.5;
+    margin: 20px;
 }
 
 p {
